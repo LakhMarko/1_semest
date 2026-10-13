@@ -1,0 +1,10 @@
+requests
+numpy
+pandas
+matplotlib
+Pillow
+qrcode[pil]
+colorama
+rich
+tqdm
+python-dotenv
